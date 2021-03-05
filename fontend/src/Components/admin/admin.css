@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(119, 207, 207);
+}
+
+.AdminaddcardButton{
+    color: blue;
+    /* margin-left: 100px; */
+    margin-left: "1000px";
+}
+
+.iconcon{
+    width: 200px;
+    height: 200px;
+}
